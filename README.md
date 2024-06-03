@@ -35,5 +35,3 @@ The LinkedIn Experience Scraper is a Python script designed to automate the proc
    ```bash
    pip install -r requirements.txt
 
-   
-   
