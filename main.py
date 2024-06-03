@@ -151,7 +151,7 @@ def save_to_csv(data):
         print(f"Error saving data to CSV: {e}")
 
 def main():
-    service = Service("F:\Project\chromedriver.exe")
+    service = Service("F:\Project\chromedriver.exe")  ## add path for the chrome driver
     driver = webdriver.Chrome(service=service)
 
     try:
