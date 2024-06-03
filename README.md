@@ -26,3 +26,14 @@ The LinkedIn Experience Scraper is a Python script designed to automate the proc
 
    ```bash
    conda create -p venv python=3.9 -y
+
+2. **Activate the environment:**
+   ```bash
+   conda activate linkedin-scraper
+
+3. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+
+   
+   
